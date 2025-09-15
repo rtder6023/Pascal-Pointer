@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.555,=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.185,=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.614,=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.622,=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-15 14:25:05.765,=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-15 14:25:30.002,C:\Delphi\Projects\Pointer\Unit1.pas=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-15 14:25:30.002,C:\Delphi\Projects\Pointer\Unit1.dfm=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025-09-15 14:30:23.475,C:\Delphi\Projects\Pointer\Unit1.pas=</Transaction>
+    <Transaction>2025-09-15 14:30:35.903,=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-15 14:31:27.685,C:\Delphi\Projects\Pointer\Unit1.pas=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-09-15 14:31:27.685,C:\Delphi\Projects\Pointer\Unit1.dfm=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025-09-15 14:33:05.685,C:\Delphi\Projects\Pointer\Project2.dproj=C:\Users\에어포스\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
